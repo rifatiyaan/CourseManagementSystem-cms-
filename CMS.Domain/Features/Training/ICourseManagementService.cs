@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CMS.Domain.Features.Training
 {
-    public interface ICMS
+    public interface ICourseManagementService
     {
         Task CreateCourseAsync(string title, uint fees, string description);
 

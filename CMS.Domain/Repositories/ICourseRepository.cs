@@ -16,3 +16,4 @@ namespace CMS.Domain.Repositories
                 int pageIndex, int pageSize);
     }
 }
+

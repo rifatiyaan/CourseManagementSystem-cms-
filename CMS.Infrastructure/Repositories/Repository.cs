@@ -1,5 +1,5 @@
 ﻿
-using Demo_Crud.Domain.Entities;
+using CMS.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Query;
 using System;
@@ -10,7 +10,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo_Crud.Infrastructure.Repositories
+namespace CMS.Infrastructure.Repositories
 {
     public abstract class Repository<TEntity, TKey>
         : IRepository<TEntity, TKey> where TKey : IComparable

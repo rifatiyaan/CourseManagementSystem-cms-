@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo_Crud.Infrastructure
+namespace CMS.Infrastructure
 {
     public class DataTablesAjaxRequestUtility
     {

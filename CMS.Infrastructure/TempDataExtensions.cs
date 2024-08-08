@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace Demo_Crud.Infrastructure
+namespace CMS.Infrastructure
 {
     public static class TempDataExtensions
     {

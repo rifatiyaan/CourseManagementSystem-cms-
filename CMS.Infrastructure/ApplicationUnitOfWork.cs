@@ -1,5 +1,6 @@
-﻿using Demo_Crud.Application;
-using Demo_Crud.Domain.Repositories;
+﻿using CMS.Application;
+using CMS.Domain.Repositories;
+using CMS.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -7,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo_Crud.Infrastructure
+namespace CMS.Infrastructure
 {
     public class ApplicationUnitOfWork : UnitOfWork, IApplicationUnitOfWork
     {

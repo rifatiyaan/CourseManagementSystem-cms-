@@ -1,5 +1,5 @@
-﻿using Demo_Crud.Domain.Entities;
-using Demo_Crud.Domain.Repositories;
+﻿using CMS.Domain.Entities;
+using CMS.Domain.Repositories;
 using Microsoft.EntityFrameworkCore.Query;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo_Crud.Infrastructure.Repositories
+namespace CMS.Infrastructure.Repositories
 {
     public interface IRepository<TEntity, TKey> : IRepositoryBase<TEntity, TKey>
           where TEntity : class, IEntity<TKey>
