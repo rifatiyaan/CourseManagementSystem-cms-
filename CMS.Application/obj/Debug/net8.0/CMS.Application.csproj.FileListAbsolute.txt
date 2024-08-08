@@ -1,0 +1,16 @@
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\bin\Debug\net8.0\CMS.Application.deps.json
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\bin\Debug\net8.0\CMS.Application.dll
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\bin\Debug\net8.0\CMS.Application.pdb
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\bin\Debug\net8.0\CMS.Domain.dll
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\bin\Debug\net8.0\CMS.Domain.pdb
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\obj\Debug\net8.0\CMS.Application.csproj.AssemblyReference.cache
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\obj\Debug\net8.0\CMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\obj\Debug\net8.0\CMS.Application.AssemblyInfoInputs.cache
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\obj\Debug\net8.0\CMS.Application.AssemblyInfo.cs
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\obj\Debug\net8.0\CMS.Application.csproj.CoreCompileInputs.cache
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\obj\Debug\net8.0\CMS.Application.sourcelink.json
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\obj\Debug\net8.0\CMS.Application.csproj.CopyComplete
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\obj\Debug\net8.0\CMS.Application.dll
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\obj\Debug\net8.0\refint\CMS.Application.dll
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\obj\Debug\net8.0\CMS.Application.pdb
+D:\PROJECT\CourseManagementSystem-cms-\CMS.Application\obj\Debug\net8.0\ref\CMS.Application.dll

@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS.web", "CMS.web\CMS.web.csproj", "{E846963E-0295-487C-BEBD-5B2140EC757F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMS.web", "CMS.web\CMS.web.csproj", "{E846963E-0295-487C-BEBD-5B2140EC757F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS.Application", "CMS.Application\CMS.Application.csproj", "{BAA8A5D6-339B-4D8E-99B3-D6CBE83D666F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMS.Application", "CMS.Application\CMS.Application.csproj", "{BAA8A5D6-339B-4D8E-99B3-D6CBE83D666F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS.Domain", "CMS.Domain\CMS.Domain.csproj", "{BD244FC3-8303-4A54-8087-3F55FD1DCBB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMS.Domain", "CMS.Domain\CMS.Domain.csproj", "{BD244FC3-8303-4A54-8087-3F55FD1DCBB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS.Infrastructure", "CMS.Infrastructure\CMS.Infrastructure.csproj", "{A7BC669B-35E3-4C44-BD46-205FEBED5662}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMS.Infrastructure", "CMS.Infrastructure\CMS.Infrastructure.csproj", "{A7BC669B-35E3-4C44-BD46-205FEBED5662}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31BBE9F0-C1E4-42FD-84E6-7F2F9CB0581D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore.txt = .gitignore.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
